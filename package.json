@@ -15,8 +15,10 @@
     "@babel/plugin-transform-block-scoping": "^7.5.5",
     "@babel/plugin-transform-classes": "^7.5.5",
     "@babel/plugin-transform-template-literals": "^7.4.4",
+    "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
-    "@babel/preset-env": "^7.5.5"
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
   },
   "dependencies": {
     "core-js": "^3.2.1",
